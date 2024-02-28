@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Assignment3_BitwiseOperators",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Assignment3_BitwiseOperators::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assignment3_BitwiseOperators-Debug-043eeffe80bcee85947f.json",
+					"name" : "Assignment3_BitwiseOperators",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/claudio/Desktop/School/CS/LMC/COMSC142_ComputerArchitecture/Assignments/Assignment3_BitwiseOperators/cmake-build-debug",
+		"source" : "/Users/claudio/Desktop/School/CS/LMC/COMSC142_ComputerArchitecture/Assignments/Assignment3_BitwiseOperators"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

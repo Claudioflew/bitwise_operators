@@ -1,0 +1,3 @@
+/Users/claudio/Desktop/School/CS/LMC/COMSC142_ComputerArchitecture/Assignments/Assignment3_BitwiseOperators/cmake-build-debug/CMakeFiles/Assignment3_BitwiseOperators.dir
+/Users/claudio/Desktop/School/CS/LMC/COMSC142_ComputerArchitecture/Assignments/Assignment3_BitwiseOperators/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/claudio/Desktop/School/CS/LMC/COMSC142_ComputerArchitecture/Assignments/Assignment3_BitwiseOperators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
